@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmService</string>
+    <string name="you_have_news_messages">你有%s条最新消息</string>
+</resources>
